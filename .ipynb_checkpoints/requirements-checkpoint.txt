@@ -1,0 +1,9 @@
+openai
+langchain
+streamlit
+elevenlabs
+pydub
+torch
+transformers
+gradio
+tqdm
