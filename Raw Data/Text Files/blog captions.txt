@@ -1,0 +1,15 @@
+﻿Blog posts/captions
+“What’s now left is unfinished skeletons, abandoned spirits roaming in desperation but it seems they will hover for a long time.”
+“I have had to sit up in some cold nights cursing, others wishing, overthinking but I hate the feelings I have had to deal with.”
+“The frustration of losing touch with the one person you hoped would help you be in your right mind.”
+“Let it not be in your memories that you walked away from something clothed in beauty when the world was on its knees begging for mercy.”
+“Life itself does not have a plan of what it holds out to us in the next second.”
+“Goodbyes are not the easiest of words to pull from our hearts, place at the tips of our lips and utter them. ”
+“Campus in itself has what your eyes wish to see, what your ears would cringe after receiving the waves.”
+
+
+{
+  "situation": "A friend feels stuck in their career and overwhelmed by comparison on LinkedIn.",
+  "tone": "Calm, grounded, big-brother energy",
+  "advice": "You're not behind. You’re just not broadcasting every little win like others do. Take time to define your own metrics for progress — then you’ll see, you're doing just fine."
+}

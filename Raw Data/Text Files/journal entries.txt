@@ -1,0 +1,15 @@
+﻿Journal entries
+“The concept of time is just mind blowing”
+“How do I chase away the feelings of being lost as I try to make the investment I am to my parents return the years of continuous planting?”
+“Woke up excited to work on my project as I love being immersed in the idea of building an end-to-end AI therapist”
+“I have big boy moves to have under my belt by August 2025. The daily efforts may seem far-fetched, no responses from recruiters but east or west, the boy is shining.”
+“How do I tell my manager that I am tired and ashamed of always protecting them but they in return think my efforts don’t meet their supposed standards?”
+“I wanted an indoor, simple celebration and interaction with nature.”
+“After a series of unending excuses and ego play, we settled on meeting up at the hidden gem restaurant next to my tennis club”
+
+
+{
+  "situation": "A friend feels stuck in their career and overwhelmed by comparison on LinkedIn.",
+  "tone": "Calm, grounded, big-brother energy",
+  "advice": "You're not behind. You’re just not broadcasting every little win like others do. Take time to define your own metrics for progress — then you’ll see, you're doing just fine."
+}

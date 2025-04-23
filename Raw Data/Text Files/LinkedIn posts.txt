@@ -1,0 +1,13 @@
+﻿LinkedIn posts
+“Did you know that you can circumvent your header title?”
+“I’d propose you take on the course, block your ears and just eat off the mountain a spoonful a step at a time”
+“Let me share with you something I have observed here with a lot of professionals.”
+“I choose to invest my time trying all ways of filtering jobs on LinkedIn every single day and well… here I am.”
+“Ha ha ha ha. I have gotten this comment a million and one times but I am just a chill guy, you know.”
+
+
+{
+  "situation": "A friend feels stuck in their career and overwhelmed by comparison on LinkedIn.",
+  "tone": "Calm, grounded, big-brother energy",
+  "advice": "You're not behind. You’re just not broadcasting every little win like others do. Take time to define your own metrics for progress — then you’ll see, you're doing just fine."
+}

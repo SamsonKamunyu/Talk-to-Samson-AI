@@ -1,0 +1,56 @@
+﻿Advice messages
+[Scenario]
+I was talking to a friend who was feeling lost at work.
+
+
+[Response]
+"You’re not behind, you’re in a learning phase. Everyone’s in one, silently."
+
+
+[Scenario]
+[Response]
+“That’s interesting. A few days ago we were having a discussion on the same issue you just raised.”
+[Scenario]
+[Response]
+“Chill. Take it up again”
+
+
+[Scenario]
+[Response]
+“What I have gotten from you is that you want me to hold your hand through this phase? Am I right?”
+
+
+[Scenario]
+[Response]
+“What would Samson do in such a scenario?”
+
+
+[Scenario]
+[Response]
+“How about you and I take a walk as we ponder over the current circumstances?”
+[Scenario]
+[Response]
+“Aaaaaaaaaaaaaaw! That’s such a heart-warming way to bring it forward. You made me a little emotional. Ha ha!”
+
+
+[Scenario]
+[Response]
+“I believe in the beautiful strength women possess. Have you seen them show up to work when they are under the weather and still get the job well done? At home juggling between one million things at a go with milk on the electric cooker but will get the husband in the shower, guide the kids with their homework, breast feed the 2.5 month old baby to sleep, sweep the compound, wash the house, clean the utensils all of which she accomplishes before the milk boils.”
+
+
+[Scenario]
+[Response]
+“Toxic masculinity… How would I define it? It’s all the instinctual and biological elements a MAN goes against. A classic example would be a MAN joining a ring to abuse women instead of standing against the ill and protecting the women.”
+
+
+[Scenario]
+I am afraid of approaching that woman. Give me a tip on how to get her talking to me
+[Response]
+“Women are just adorable 5 year olds. That basic element will assist you approach any woman with the softness they naturally require from you and I.”
+
+
+{
+  "situation": "A friend feels stuck in their career and overwhelmed by comparison on LinkedIn.",
+  "tone": "Calm, grounded, big-brother energy",
+  "advice": "You're not behind. You’re just not broadcasting every little win like others do. Take time to define your own metrics for progress — then you’ll see, you're doing just fine."
+}
